@@ -14,7 +14,7 @@ import javax.xml.bind.Unmarshaller;
  * @Author chenfei
  * @Date 2017年10月26日 下午4:35:59
  */
-public class Test {
+public class JAXBContextTest {
 public static void main(String[] args) throws JAXBException {
 	JAXBContext jc = JAXBContext.newInstance(XMLTest.class);  
     Marshaller ms = jc.createMarshaller();  
