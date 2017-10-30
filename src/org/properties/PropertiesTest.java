@@ -1,4 +1,4 @@
-package org.exception;
+package org.properties;
 
 import java.io.IOException;
 import java.io.InputStream;
